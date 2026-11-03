@@ -1,0 +1,11 @@
+.DS_Store
+__MACOSX/
+.ipynb_checkpoints/
+data/
+output/*.pkl
+output/*.png
+report/*.aux
+report/*.log
+report/*.out
+report/*.fls
+report/*.fdb_latexmk
